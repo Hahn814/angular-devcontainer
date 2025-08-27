@@ -1,0 +1,1 @@
+# https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions#asking-copilot-coding-agent-to-generate-a-githubcopilot-instructionsmd-file
