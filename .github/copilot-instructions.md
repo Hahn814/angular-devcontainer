@@ -1,7 +1,5 @@
-# https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions#asking-copilot-coding-agent-to-generate-a-githubcopilot-instructionsmd-file
-
 ---
-applyTo: **/usr/src/app/**
+applyTo: "**/usr/src/app/**"
 ---
 
 # Software Engineering Principles
